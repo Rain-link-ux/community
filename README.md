@@ -7,8 +7,11 @@
 
 [GitAPP授权登录](https://docs.github.com/cn/developers/apps/building-oauth-apps/creating-an-oauth-app)
 
+[Git转向登录文档](https://docs.github.com/cn/developers/apps/building-oauth-apps/authorizing-oauth-apps)
 ## 工具
 [Git](https://git-scm.com/)
+
+
 
 
 
